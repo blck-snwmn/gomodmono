@@ -5,6 +5,7 @@ go 1.19
 require (
 	google.golang.org/grpc v1.49.0
 	google.golang.org/protobuf v1.28.1
+	github.com/blck-snwmn/gomodmono/modules/order v0.0.0
 )
 
 require (
