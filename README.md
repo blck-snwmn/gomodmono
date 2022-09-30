@@ -4,7 +4,7 @@
 
 1. Run command in root directory.
    ```
-   go work init  modules/order main
+   go work init  . modules/order
    ```
 
 2. Then, `go.work` file will be generated.
