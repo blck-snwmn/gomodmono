@@ -6,7 +6,7 @@ require (
 	github.com/blck-snwmn/gomodmono/modules/order v0.0.0-20220929171746-14b64b4b07a9
 	github.com/blck-snwmn/gomodmono/modules/payment v0.0.0-20220930185115-3c367ccaec73
 	google.golang.org/grpc v1.56.3
-	google.golang.org/protobuf v1.30.0
+	google.golang.org/protobuf v1.33.0
 )
 
 require (
